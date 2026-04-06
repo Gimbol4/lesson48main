@@ -7,7 +7,7 @@ int main() {
 
 	long long start = time(0);
 
-	sort_select(array, length);
+	sort_insert(array, length);
 
 	long long end = time(0);
 
